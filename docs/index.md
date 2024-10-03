@@ -1,16 +1,25 @@
-# My personal website
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
 
-Here you can find my resume, projects and tutorials about GIS, Python, and Django web framework.
+hero:
+  name: "My Website"
+  text: "A VitePress Site"
+  tagline: My great project tagline
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
 
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+---
 
-* [Resume](resume.md)
-
-* [GIS Resume](gis-resume.md)
-
-* [Tutorials](tutorials/tutorials.md)
-
-* [GIS Projects](gis-projects.md)
-
-* [Django Projects](django-projects.md)
-
-* [Project Reviews](project-reviews/project-reviews.md)
