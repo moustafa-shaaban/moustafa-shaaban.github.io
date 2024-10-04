@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Website"
-  text: "A VitePress Site"
+  name: "Moustafa Shaaban"
+  text: "My Personal website built using VitePress"
   tagline: My great project tagline
   actions:
     - theme: brand
