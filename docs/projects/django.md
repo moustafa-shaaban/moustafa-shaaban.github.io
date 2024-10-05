@@ -11,11 +11,10 @@ Currently it has some projects under the name of:
 
 * [Django and folium](https://github.com/MoustafaShaaban/Django_and_Folium)
 
--------------------------------------------------------------
 
-### Django Geoapp + Vue.js 3
+## Django Geoapp + Vue.js 3
 
-Project Goals
+### Project Goals
 
 * Use Django admin site to import data from different sources (CSV, JSON, ...) into the database.
 
@@ -30,17 +29,17 @@ Project Goals
 * Use Vue.js 3 (using Vite ) and axios to fetch the data from the backend and display it in a Bootstrap Table.
 
 
-Project Files
+### Project Files
 
 * [Github](https://github.com/MoustafaShaaban/Django-Geoapp)
 
-Project Preview
+### Project Preview
 
 * [Youtube](https://www.youtube.com/watch?v=dqDSYeppbGI)
 
 
 
-Libraries and Packages used
+### Libraries and Packages used
 
 * [Django Web Framework](https://www.djangoproject.com/)
 
@@ -52,11 +51,11 @@ Libraries and Packages used
 
 -------------------------------------
 
-### Advanced Django Blog
+## Advanced Django Blog
 
 A project built with Django web framework and Bootstrap.
 
-Project Goals
+### Project Goals
 
 * All users can read or search for the posts on the blog.
 
@@ -71,17 +70,17 @@ Project Goals
     * Access their profile which lists all their added blog posts.
 
 
-Project files
+### Project files
 
 * [Github](https://github.com/MoustafaShaaban/Advanced_Django_Blog)
 
 
-Project preview
+### Project preview
 
 * [Youtube](https://www.youtube.com/watch?v=mxe6Ca5yLOo)
 
 
-Project Description:
+### Project Description:
 
 This project is a Django project called `blog_backend` and it has four registered apps and one third-party app.
 
@@ -94,7 +93,7 @@ This project is a Django project called `blog_backend` and it has four registere
 * The `users` app which uses `django.contrib.auth.urls` to allow users register and login to their accounts.
 
 
-What could you learn from this project?
+### What could you learn from this project?
 
 * Create Django models and define relationships between the database fields.
 
@@ -117,7 +116,7 @@ What could you learn from this project?
 * Use Graphene Django to add a GraphQL endpoint and use to run several Queries and Mutations.
 
 
-Libraries and Packages used:
+### Libraries and Packages used:
 
 * [Django Web Framework](https://www.djangoproject.com/)
 
@@ -133,11 +132,11 @@ Libraries and Packages used:
 
 -------------------------------------------------------------
 
-### Django Todo App
+## Django Todo App
 
 A project built with Django web framework and Bootstrap
 
-Project Goals
+### Project Goals
 
 * Users can register to our website to create todos.
 
@@ -145,7 +144,7 @@ Project Goals
 
 * Once logged in, Users can access a REST API of the our website, which also allows them to use CRUD (Create, Read, Update and Delete) operations.
 
-Project Functionalities:
+### Project Functionalities:
 
 * Only logged in users can add todos from the website or the API.
 
@@ -155,17 +154,17 @@ Project Functionalities:
 
 * Once logged in Users can access a REST API which has a filtering framework built with django-filter package, which allows the user to filter the todos by their state (completed or not completed).
 
-Project Files
+### Project Files
 
 * [Github](https://github.com/MoustafaShaaban/Django_Todo_App_with_Authentication_and_Authorization)
 
 
-Project Preview
+### Project Preview
 
 * [Youtube](https://www.youtube.com/watch?v=Ux8aDtOjBOY)
 
 
-Libraries and Packages used
+### Libraries and Packages used
 
 * [Django Web Framework](https://www.djangoproject.com/)
 
@@ -176,9 +175,9 @@ Libraries and Packages used
 * UI components from the official Bootstrap 4.6 website documentation.
 
 ----------------------------------------------------------------
-### Django and folium
+## Django and folium
 
-Project Goals
+### Project Goals
 
 * Use the power of Folium package to visualize data generated from Django Database on a Leaflet JS map.
 
@@ -187,18 +186,18 @@ Project Goals
 * Visualize data using Folium's Simple Markers and Marker Cluster.
 
 
-Project Files
+### Project Files
 
 * [Github](https://github.com/MoustafaShaaban/Django_and_Folium)
 
-Project Preview
+### Project Preview
 
 * [Version 1 on Youtube](https://www.youtube.com/watch?v=r08MujfgjoM)
 
 * [Version 2 on Youtube](https://www.youtube.com/watch?v=eU8r5l9-6JE)
 
 
-Libraries and Packages used
+### Libraries and Packages used
 
 * [Django Web Framework](https://www.djangoproject.com/)
 

@@ -4,22 +4,21 @@ layout: home
 
 hero:
   name: "Moustafa Shaaban"
-  text: "My Personal website built using VitePress"
-  tagline: My great project tagline
+  text: "Welcome to my website"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Projects
+      link: /projects
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Resume
+      link: /resume
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
