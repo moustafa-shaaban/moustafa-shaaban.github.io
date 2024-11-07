@@ -1,8 +1,10 @@
+import { SearchPlugin } from "vitepress-plugin-search";
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/',
+  vite: { plugins: [SearchPlugin()] },
   title: "Moustafa Shaaban",
   description: "My Personal website built using VitePress",
   themeConfig: {
@@ -16,6 +18,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Moustafa Shaaban',
+        collapsed: true,
         items: [
           { text: 'Projects', link: '/projects' },
           { text: 'Django Projects', link: '/projects/django' },
