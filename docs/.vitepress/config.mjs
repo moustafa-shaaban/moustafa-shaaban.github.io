@@ -17,16 +17,20 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Moustafa Shaaban',
-        collapsed: true,
         items: [
-          { text: 'Projects', link: '/projects' },
-          { text: 'Django Projects', link: '/projects/django' },
-          { text: 'VueJS Projects', link: '/projects/vuejs' },
-          { text: 'GIS Projects', link: '/projects/gis' },
+          { text: 'Home', link: '/' },
           { text: 'Resume', link: '/resume' },
           // { text: 'Markdown Examples', link: '/markdown-examples' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
+        ]
+      },
+      {
+        text: 'Projects',
+        collapsed: true,
+        items: [
+          { text: 'Django Projects', link: '/projects/django' },
+          { text: 'VueJS Projects', link: '/projects/vuejs' },
+          { text: 'GIS Projects', link: '/projects/gis' },
         ]
       }
     ],
