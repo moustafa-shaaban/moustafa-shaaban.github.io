@@ -93,7 +93,10 @@ Once authenticated, users can do the following:
 
 * Open the web browser and go to ` http://localhost:8000/ ` to see the results.
 
-![type:video](./reviews/Start-Project.mp4)
+<video width="500" height="400" controls>
+  <source src="./Start-Project.mp4" type="video/mp4">
+</video>
+
 
 Now, we can start reviewing our project.
 
@@ -103,31 +106,47 @@ Now, we can start reviewing our project.
 
 * Adding a new blog post:
 
-![type:video](./reviews/Add-Post.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Add-Post.mp4" type="video/mp4">
+</video>
 
 * Updating a blog post:
 
-![type:video](./reviews/Main-Update-Post.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Main-Update-Post.mp4" type="video/mp4">
+</video>
 
 * Delete a blog post:
 
-![type:video](./reviews/Main-Delete-Post.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Main-Delete-Post.mp4" type="video/mp4">
+</video>
 
 * Protect blog posts so that only the author of the post who can modify it:
 
-![type:video](./reviews/Protect-Posts.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Protect-Posts.mp4" type="video/mp4">
+</video>
 
 * Add blog posts to favorite posts:
 
-![type:video](./reviews/Favorite-Posts.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Favorite-Posts.mp4" type="video/mp4">
+</video>
 
-* List all tags and its related posts: 
+* List all tags and its related posts:
 
-![type:video](./reviews/Tags.mp4).
+<video width="500" height="400" controls>
+  <source src="./reviews/Tags.mp4" type="video/mp4">
+</video>
+
 
 * Search for blog posts:
 
-![type:video](./reviews/Search.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Search.mp4" type="video/mp4">
+</video>
+
 
 -------------------------------------------------
 
@@ -151,7 +170,10 @@ query ReturnAllTags {
 
 ```
 
-![type:video](./reviews/All-Tags.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/All-Tags.mp4" type="video/mp4">
+</video>
+
 
 ---------------------------------------
 
@@ -173,10 +195,13 @@ mutation CreateTag {
       slug
     }
   }
+}
 
 ```
 
-![type:video](./reviews/Create-Tag.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Create-Tag.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -202,7 +227,9 @@ mutation UpdateTag {
 
 ```
 
-![type:video](./reviews/Update-Tag.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Update-Tag.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -224,7 +251,9 @@ mutation DeleteTag {
 
 ```
 
-![type:video](./reviews/Delete-Tag.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Delete-Tag.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -270,7 +299,9 @@ mutation createPost {
 
 ```
 
-![type:video](./reviews/Create-Post.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Create-Post.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -302,7 +333,9 @@ mutation updatePost {
 
 ```
 
-![type:video](./reviews/Update-Post.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Update-Post.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -324,7 +357,9 @@ mutation deletePost {
 
 ```
 
-![type:video](./reviews/Delete-Post.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Delete-Post.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -358,7 +393,9 @@ mutation createComment {
 
 ```
 
-![type:video](./reviews/Create-Comment.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Create-Comment.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -384,7 +421,9 @@ mutation updateComment {
 
 ```
 
-![type:video](./reviews/Update-Comment.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Update-Comment.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -406,7 +445,9 @@ mutation deleteComment {
 
 ```
 
-![type:video](./reviews/Delete-Comment.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Delete-Comment.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -438,7 +479,9 @@ query AllPosts {
 
 ```
 
-![type:video](./reviews/All-Posts.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/All-Posts.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -466,7 +509,9 @@ query AllPostsWithFilters {
 
 We can also filter the blog posts by content, and display specific number of posts. (Check the GraphQL Docs at the following project url: http://127.0.0.1:8000/graphql/  )
 
-![type:video](./reviews/All-Posts-with-Filters.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/All-Posts-with-Filters.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -498,7 +543,10 @@ query PostsByTag {
 
 ```
 
-![type:video](./reviews/Posts-By-Tag.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Posts-By-Tag.mp4" type="video/mp4">
+</video>
+
 
 ---------------------------------------
 
@@ -530,7 +578,9 @@ query PostsByAuthor {
 
 ```
 
-![type:video](./reviews/Posts-By-Author.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Posts-By-Author.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -561,7 +611,9 @@ query PostsByTitle {
 
 ```
 
-![type:video](./reviews/Posts-By-Title.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Posts-By-Title.mp4" type="video/mp4">
+</video>
 
 ---------------------------------------
 
@@ -590,7 +642,9 @@ query CommentsByPost {
 
 ```
 
-![type:video](./reviews/Comments-by-Post.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Comments-by-Post.mp4" type="video/mp4">
+</video>
 
 -------------------------------------------------
 
@@ -600,8 +654,12 @@ The REST API has the same functionality as the main website, It uses Django REST
 
 Also It uses Cookiecutter Django's REST API Documentation using Swagger API.
 
-![type:video](./reviews/Rest-API-Docs.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Rest-API-Docs.mp4" type="video/mp4">
+</video>
 
 I changed the default way to retrieve the blog post detail information, Instead of having to provide the post id, you can uses the post slug:
 
-![type:video](./reviews/Rest-API-Root.mp4)
+<video width="500" height="400" controls>
+  <source src="./reviews/Rest-API-Root.mp4" type="video/mp4">
+</video>
