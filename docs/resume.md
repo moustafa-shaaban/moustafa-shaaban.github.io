@@ -27,10 +27,10 @@ University.
 # Advanced Django Blog
 A Fulstack Blog Web Application built using Django Web Framework and Vue.js 3 that Supports both GraphQL and Rest APIs.
 
-[Full Review](https://moustafashaaban.github.io/project-reviews/django/Django-Blog/Django-Blog/)
+[Full Review](https://moustafa-shaaban.github.io/project-reviews/django/Django-Blog/Django-Blog/)
 
 ### Project files on Github
-* [Github](https://github.com/MoustafaShaaban/Advanced_Django_Blog)
+* [Github](https://github.com/Moustafa-Shaaban/Advanced_Django_Blog)
 
 ### Project preview
 * [Youtube](https://www.youtube.com/watch?v=mxe6Ca5yLOo)
@@ -40,9 +40,9 @@ A Fulstack Blog Web Application built using Django Web Framework and Vue.js 3 th
 ------------------
 A Frontend GIS Interactive Web Application built using Leaflet.js, Vue.js 3, Pinia State Manager, Quasar Framework and Chart.js
 ### Live Preview
-[Vue GIS App](https://moustafashaaban.github.io/Vue-GIS/#/)
+[Vue GIS App](https://moustafa-shaaban.github.io/Vue-GIS/#/)
 ### Project files on Github
-* [Vue GIS App](https://github.com/MoustafaShaaban/Vue-GIS)
+* [Vue GIS App](https://github.com/Moustafa-Shaaban/Vue-GIS)
 
 --------------------------------------------------------
 
@@ -50,10 +50,10 @@ A Frontend GIS Interactive Web Application built using Leaflet.js, Vue.js 3, Pin
 A Frontend Expenses Tracker Application built using Vue.js 3, Pinia State Manager, Quasar Framework and Chart.js
 
 ### Live Preview
-[Vue Expense Tracker App](https://moustafashaaban.github.io/Vue-Expense-Tracker/)
+[Vue Expense Tracker App](https://moustaf-ashaaban.github.io/Vue-Expense-Tracker/)
 
 ### Project files on Github
-* [Vue-Expense-Tracker](https://github.com/MoustafaShaaban/Vue-Expense-Tracker)
+* [Vue-Expense-Tracker](https://github.com/Moustafa-Shaaban/Vue-Expense-Tracker)
 
 --------------------------------------------------------------
 ## Skills
