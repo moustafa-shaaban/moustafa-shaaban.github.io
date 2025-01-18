@@ -50,7 +50,7 @@ A Frontend GIS Interactive Web Application built using Leaflet.js, Vue.js 3, Pin
 A Frontend Expenses Tracker Application built using Vue.js 3, Pinia State Manager, Quasar Framework and Chart.js
 
 ### Live Preview
-[Vue Expense Tracker App](https://moustaf-ashaaban.github.io/Vue-Expense-Tracker/)
+[Vue Expense Tracker App](https://moustafa-shaaban.github.io/Vue-Expense-Tracker/)
 
 ### Project files on Github
 * [Vue-Expense-Tracker](https://github.com/Moustafa-Shaaban/Vue-Expense-Tracker)
