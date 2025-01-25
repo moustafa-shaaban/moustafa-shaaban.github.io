@@ -27,23 +27,25 @@ A GIS app built using Vue, Quasar and Leaflet
 
 * Project Review:
 
-![Project Review](./reviews/1-Project-Overview.gif)
+![Project Review](../../project-reviews/vuejs/vue-gis/1-Project-Overview.gif)
+
+![Project Review](../../project-reviews/vuejs/vue-gis/1-Project-Overview.gif)
 
 * Adding Data:
 
-![Adding Data](./reviews/2-Add-Data.gif)
+![Adding Data](../../project-reviews/vuejs/vue-gis/2-Add-Data.gif)
 
 * Filtering Data:
 
-![Filtering Data](./reviews/3-Filter-Data.gif)
+![Filtering Data](../../project-reviews/vuejs/vue-gis/3-Filter-Data.gif)
 
 * Sort and Update Data:
 
-![Sort and Update Data](./reviews/4-Sort-and-Update-Data.gif)
+![Sort and Update Data](../../project-reviews/vuejs/vue-gis/4-Sort-and-Update-Data.gif)
 
 * Delete Data and Search for new places:
 
-![Delete Data and Search for new places](./reviews/5-Delete-Data-and-Search-for-places.gif)
+![Delete Data and Search for new places](../../project-reviews/vuejs/vue-gis/5-Delete-Data-and-Search-for-places.gif)
 
 
 
