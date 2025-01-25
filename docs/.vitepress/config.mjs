@@ -36,10 +36,10 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/moustafashaaban' },
-      { icon: 'linkedin', link: 'https://linkedin.com/in/moustafashaaban' },
-      // { icon: 'hashnode', link: 'https://hashnode.com/@moustafashaaban' },
-      // { icon: 'medium', link: 'https://medium.com/@moustafashaaban' },
+      { icon: 'github', link: 'https://github.com/moustafa-shaaban' },
+      { icon: 'linkedin', link: 'https://linkedin.com/in/moustafa-shaaban' },
+      // { icon: 'hashnode', link: 'https://hashnode.com/@moustafa-shaaban' },
+      // { icon: 'medium', link: 'https://medium.com/@moustafa-shaaban' },
       { icon: 'twitter', link: 'https://twitter.com/_moustafashaban' },
     ]
   }

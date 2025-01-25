@@ -5,11 +5,54 @@ This section contains my Vue JS projects.
 
 Currently it has some projects:
 
-* [Vue GIS App](https://github.com/MoustafaShaaban/Vue-GIS)
+* [Expenses Tracker](../projects/vuejs/expenses-tracker.md)
 
-* [Vue Notes App](https://github.com/MoustafaShaaban/Vue_Notes_App)
+* [Vue GIS](../projects/vuejs/vue-gis.md)
+
+* [Notes App](../projects/vuejs/notes-app.md)
 
 -------------------------------------------------------------
+
+# Vue-Expense-Tracker
+
+Expenses tracker app built using:
+
+- [Vue.js 3](https://vuejs.org/)
+- [Quasar Framework](https://quasar.dev/)
+- [Pinia](https://pinia.vuejs.org/)
+- [VueUse](https://vueuse.org/)
+
+### Live Preview
+
+[Vue Expense Tracker App](https://moustafa-shaaban.github.io/Vue-Expense-Tracker/)
+
+### Project Goals
+
+- Create, Read, Update and Delete (CRUD) transactions.
+
+- Create, Read, Update and Delete (CRUD) transactions tags.
+
+- Link transactions by tags.
+
+- Persist transactions and Tags using the localStorage API.
+
+- Search for transactions by transaction name or amount.
+
+- Visualize Transactions Data on Pie Charts to track incomes, expenses, and expenses by tags.
+
+- Exporting Data into CSV file.
+
+### To get started with this project
+
+- Clone the repository: git clone https://github.com/Moustafa-Shaaban/Vue-Expense-Tracker.git
+
+- Change directory to Vue-Expense-Tracker directory `cd Vue-Expense-Tracker`
+
+- Install the packages `npm install`
+
+- Run the development server `npm run dev`
+
+- Open the web browser and go to `http://localhost:5173/` to see the results.
 
 ## Vue GIS
 
@@ -23,7 +66,7 @@ Currently it has some projects:
 
 ### Live Preview
 
-[Vue Notes App](https://moustafashaaban.github.io/Vue-GIS/)
+[Vue Notes App](https://moustafa-shaaban.github.io/Vue-GIS/)
 
 
 ### Project Review
@@ -50,7 +93,7 @@ Currently it has some projects:
 
 ### Get started with this project
 
-* Clone the repository: git clone https://github.com/MoustafaShaaban/Vue-GIS.git
+* Clone the repository: git clone https://github.com/moustafa-shaaban/Vue-GIS.git
 
 * Change directory to Vue-GIS directory ``` cd Vue-GIS ```
 
@@ -89,12 +132,12 @@ Currently it has some projects:
 
 ### Live Preview
 
-[Vue Notes App](https://moustafashaaban.github.io/Vue_Notes_App/)
+[Vue Notes App](https://moustafa-shaaban.github.io/Vue_Notes_App/)
 
 
 ### Get started with this project
 
-* Clone the repository: git clone https://github.com/MoustafaShaaban/Vue_Notes_App.git
+* Clone the repository: git clone https://github.com/moustafa-shaaban/Vue_Notes_App.git
 
 * Change directory to Vue_Notes_App directory ``` cd Vue_Notes_App ```
 

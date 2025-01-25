@@ -5,7 +5,7 @@ slug: project-reviews/django/Django-Blog
 
 # Advanced Django Blog with Rest API and GraphQL
 
-### [Main Project Files on Github](https://github.com/MoustafaShaaban/Advanced_Django_Blog)
+### [Main Project Files on Github](https://github.com/moustafa-shaaban/Advanced_Django_Blog)
 
 In this article I will review a project I created using the following frameworks:
 
@@ -69,7 +69,7 @@ Once authenticated, users can do the following:
 
 * Make sure that [Docker](https://www.docker.com/) and [docker-compose](https://docs.docker.com/compose/) are installed in your system.
 
-* Clone the repository: git clone https://github.com/MoustafaShaaban/Advanced_Django_Blog.git
+* Clone the repository: git clone https://github.com/moustafa-shaaban/Advanced_Django_Blog.git
 
 * Change directory to blog_backend directory ``` cd blog_backend ```
 

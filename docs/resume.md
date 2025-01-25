@@ -8,8 +8,8 @@
 * Email: Moustafa-Shaaban@outlook.com       
 * Phone + Whatsapp Number: 0201018989702
 * [Website](https://moustafa-shaaban.github.io/)
-* [LinkedIn](https://www.linkedin.com/in/moustafashaaban)
-* [Github](https://www.github.com/MoustafaShaaban)
+* [LinkedIn](https://www.linkedin.com/in/moustafa-shaaban)
+* [Github](https://www.github.com/moustafa-shaaban)
 
 -----------------------------------------------------------------
 

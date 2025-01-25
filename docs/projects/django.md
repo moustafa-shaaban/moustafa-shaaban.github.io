@@ -5,11 +5,11 @@ This section of the website contains my Django projects.
 
 Currently it has some projects under the name of:
 
-* [Advanced Django Blog](https://github.com/MoustafaShaaban/Advanced_Django_Blog)
+* [Advanced Django Blog](https://github.com/moustafa-shaaban/Advanced_Django_Blog)
 
-* [Django Todo App with Authentication and Authorization with REST API](https://github.com/MoustafaShaaban/Django_Todo_App_with_Authentication_and_Authorization)
+* [Django Todo App with Authentication and Authorization with REST API](https://github.com/moustafa-shaaban/Django_Todo_App_with_Authentication_and_Authorization)
 
-* [Django and folium](https://github.com/MoustafaShaaban/Django_and_Folium)
+* [Django and folium](https://github.com/moustafa-shaaban/Django_and_Folium)
 
 
 ## Django Geoapp + Vue.js 3
@@ -31,7 +31,7 @@ Currently it has some projects under the name of:
 
 ### Project Files
 
-* [Github](https://github.com/MoustafaShaaban/Django-Geoapp)
+* [Github](https://github.com/moustafa-shaaban/Django-Geoapp)
 
 ### Project Preview
 
@@ -72,7 +72,7 @@ A project built with Django web framework and Bootstrap.
 
 ### Project files
 
-* [Github](https://github.com/MoustafaShaaban/Advanced_Django_Blog)
+* [Github](https://github.com/moustafa-shaaban/Advanced_Django_Blog)
 
 
 ### Project preview
@@ -156,7 +156,7 @@ A project built with Django web framework and Bootstrap
 
 ### Project Files
 
-* [Github](https://github.com/MoustafaShaaban/Django_Todo_App_with_Authentication_and_Authorization)
+* [Github](https://github.com/moustafa-shaaban/Django_Todo_App_with_Authentication_and_Authorization)
 
 
 ### Project Preview
@@ -188,7 +188,7 @@ A project built with Django web framework and Bootstrap
 
 ### Project Files
 
-* [Github](https://github.com/MoustafaShaaban/Django_and_Folium)
+* [Github](https://github.com/moustafa-shaaban/Django_and_Folium)
 
 ### Project Preview
 
