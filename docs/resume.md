@@ -18,7 +18,7 @@
 * Graduated from faculty of Arts department of Geography and Geographic Information Systems (GIS), Alexandria
 University.
 
-* I am a Software Developer with GIS background with experience in building Web applications I am seeking to apply and expand my knowledge and skills towards working in a collaborative environment to develop quality software solutions that address and solve business problems.
+* I am a self taught software developer focusing on mobile app development and full stack web development using Django web framework for the back-end and Vue.js for the front-end. i built some projects to showcase my skills in the front-end and back-end which you can access here: Github: https://github.com/Moustafa-Shaaban/
 
 -----------------------------------------------------------------
 
