@@ -55,42 +55,65 @@ Currently it has some projects under the name of:
 
 A project built with Django web framework and Bootstrap.
 
-### Project Goals
-
-* All users can read or search for the posts on the blog.
+###  Project Goals
 
 * Authenticated users can:
 
-    * Access a GraphQL endpoint and Run several Queries and Mutations.
+  * Access a GraphQL endpoint and run several Quries and CRUD Mutations.
 
-    * Create, Read, Update and Delete (CRUD) blog posts on the website.
+  * Access a Rest API endpoint and run CRUD operations.
 
-    * Add comments on blog posts, but the comments will not be shown until the website admin approves it.
+  * Create, Read, Update and Delete (CRUD) blog posts on the website.
 
-    * Access their profile which lists all their added blog posts.
+  * Add comments on blog posts, but the comments will not be visiable until the website admin approves it.
+
+  * Like Blog posts and Add them to their favorite list (using HTMX).
+
+  * Access their profile which lists all their blog posts and their favorite posts.
 
 
-### Project files
+* All users can read or search for the posts on the blog.
 
-* [Github](https://github.com/moustafa-shaaban/Advanced_Django_Blog)
+* Users can access separate frontend project built using Vue.js 3, Tanstack-Vue-Query, Vue-Apollo and Quasar Framework which connects with django through Django Rest Framework using Session Authentication.
 
+* The frontend vue.js app also allows users to perform CRUD operations through connecting to a REST API and a GraphQL endpoints.
+
+Currently in Vue frontend users can:
+
+* Register for an account and log in to their account (users will be authenticated using Django Rest Framework Session Authentication).
+
+* Add tags to blog using a Rest API endpoint and GraphQL endpoint.
+
+* Perform CRUD operations to blog posts using both REST API and GraphQL.
+
+* Perform CRUD operations to add comments to blog posts using both REST API and GraphQL.
+
+* Add and remove posts to and form their favorite posts list.
+
+* Access pages that show their added blog posts and their favorite posts.
+
+* Search for blog posts by title and limiting the results using both REST API and GraphQL
 
 ### Project preview
 
 * [Youtube](https://www.youtube.com/watch?v=mxe6Ca5yLOo)
 
+* [Article](https://moustafashaaban.github.io/project-reviews/django/Django-Blog/Django-Blog/)
 
-### Project Description:
+
+###  Project Description:
 
 This project is a Django project called `blog_backend` and it has four registered apps and one third-party app.
 
-* The `blog` app which contains an app-level templates and urls, used for most of the functionalities of our app, like, models, forms, views, urls, and custom template tags.
+  * The `blog` app which contains an app-level templates and urls, used for most of the functionalities of our app, like, models, forms, views, urls, and custom template tags.
 
-* The `api` app which contains the Django Rest Framework integration used to build a REST API.
+  * The `api` app which contains the Django Rest Framework integration used to build a REST API.
 
-* The `graphql_app` which contains the Graphene Django integration used to build a GraphQL endpoint.
+  * The `graphql_app` which contains the Graphene Django integration used to build a GraphQL endpoint.
     
-* The `users` app which uses `django.contrib.auth.urls` to allow users register and login to their accounts.
+  * The `users` app which uses `django.contrib.auth.urls` to allow users register and login to their accounts.
+
+  * `crispy forms` third-party app which beautify django forms design.
 
 
 ### What could you learn from this project?
@@ -107,13 +130,11 @@ This project is a Django project called `blog_backend` and it has four registere
 
 * How to protect your post so that only you who can modify or delete it.
 
-* Throw a 403 forbidden page to any user who try to guess the URL to change something they are not authorized to do.
+* Throw a 403 forbidden page to any user who try to guess the URL to change something they are not authorized to change.
 
 * Create a search form on your website.
 
-* Use a REST API endpoint.
-
-* Use Graphene Django to add a GraphQL endpoint and use to run several Queries and Mutations.
+* And many more.
 
 
 ### Libraries and Packages used:
@@ -127,6 +148,18 @@ This project is a Django project called `blog_backend` and it has four registere
 * [Cookiecutter Django](https://github.com/cookiecutter/cookiecutter-django)
 
 * [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/) package
+
+* [HTMX](https://htmx.org/)
+
+* [Vue.js 3](https://vuejs.org/)
+
+* [Quasar Framework](https://quasar.dev/)
+
+* [Tanstack Vue Query](https://tanstack.com/query/latest/docs/vue/overview)
+
+* [Vue Apollo](https://apollo.vuejs.org/)
+
+* [Vue-multiselect](https://vue-multiselect.js.org/)
 
 * UI components from the official [Bootstrap 5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/) website documentation.
 
